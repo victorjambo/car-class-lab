@@ -8,11 +8,7 @@ Let the test guide you to building your Car boiler plate.
 
 ### How to Run this Lab
 
-Clone the repository
-Open index.html in your browser to see the currently failing test specs you are to pass
-Open the repository in your favorite text editor to explore the different files
-Open js\car-class.js and write the function(s) or lines of code to pass the tests
-You could refresh index.html in your browser intermittently to see the status of test specs.
+Fork this Repository, then Clone forked repository Open the file named car.py and start coding
 ### Notes
 
 Prior understanding of Python classes are required, returning, and conditional statements will be required to complete this exercise.
